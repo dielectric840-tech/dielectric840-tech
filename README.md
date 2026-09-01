@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Muhammad Ahsan Naeem
 
-<!--
-**dielectric840-tech/dielectric840-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Data Science Student | C++ Developer | Python Learner
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 BS Data Science — UMT, Lahore
+💻 Building projects with C++ and Python
+🧠 Learning Data Structures & Algorithms
+📊 Exploring Data Science
+🔧 Interested in building practical software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+C++ | Python | SQL | Git | GitHub | Data Structures | OOP
+
+🚀 Featured Projects
+├── Inventory Management System
+├── Employee Management & Payroll System
+├── Library Management System
+├── Student Management System
+└── Airline Reservation System
+
+📊 GitHub Statistics
+
+🌐 Connect With Me
+GitHub | LinkedIn | YouTube | Email
