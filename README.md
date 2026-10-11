@@ -1,130 +1,148 @@
-# 👋 Hi, I'm Muhammad Ahsan Naeem
+# Muhammad Ahsan Naeem 👋
 
-### BS Data Science Student | C++ Developer | Aspiring Data Scientist
+### C++ Developer | BS Data Science Student | Data Science Intern
 
-<p align="center">
-  <a href="https://github.com/dielectric840-tech">
-    <img src="https://komarev.com/ghpvc/?username=dielectric840-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/dielectric840-tech?tab=followers">
-    <img src="https://img.shields.io/github/followers/dielectric840-tech?label=Followers&style=flat" alt="GitHub Followers" />
-  </a>
-</p>
+Welcome to my GitHub profile!
 
----
+I'm **Muhammad Ahsan Naeem**, a BS Data Science student at the University of Management and Technology (UMT), Lahore, Pakistan. I'm passionate about C++ programming, software development, problem-solving, Data Science, and Artificial Intelligence.
 
-## About Me
+I enjoy building practical software applications, strengthening my programming fundamentals, and exploring how technology can solve real-world problems.
 
-I’m a BS Data Science student at the University of Management and Technology (UMT), Lahore, with a strong interest in software development, problem solving, and data science.
-
-I enjoy:
-- Building practical C++ applications
-- Strengthening my Data Structures and Algorithms knowledge
-- Exploring Python, SQL, and Machine Learning
-- Turning ideas into real-world projects
-- Learning by creating and improving every day
+- 🎓 **Education:** BS Data Science — UMT, Lahore
+- 💻 **Programming:** C++
+- 🚀 **Interests:** Software Development, Data Science, AI, and Machine Learning
+- 📚 **Currently learning:** Python, Data Analysis, and Machine Learning
+- 💼 **Experience:** Completed C++ internship at Big Brain
+- 🌱 **Currently pursuing:** Data Science internship at Next Gen Software Hub
+- 🤝 **Open to:** Professional networking, project collaborations, and relevant internship opportunities
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Programming Languages
+- C++
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Currently Learning
+- Python
+- Data Analysis
+- Machine Learning
 
-### Core Focus
-`OOP` • `Data Structures` • `Algorithms` • `File Handling` • `CRUD Systems` • `Problem Solving` • `Data Science`
+### Computer Science Fundamentals
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms
+- Arrays, Functions, Loops, and Pointers
+- Input Validation
+- File Handling
+- Problem-Solving and Logical Thinking
 
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏥 Hospital Management System | Manage patients, staff, and hospital records | C++, OOP, File Handling |
-| 📦 Inventory Management System | Product tracking, stock in/out, and returns | C++, OOP, File Handling |
-| 👨‍💼 Employee Management & Payroll | Employee records and payroll handling | C++, OOP, File Handling |
-| 📚 Library Management System | Book and member management | C++, OOP, File Handling |
-| 🎓 Student Management System | Student record management with CRUD operations | C++, OOP, File Handling |
-| ✈️ Airline Reservation System | Flight and passenger reservation management | C++, OOP, File Handling |
-
-➡️ Explore more: [C++ Projects](https://github.com/dielectric840-tech/C-Plus-Plus--Projects)
+### Areas of Interest
+- Software Engineering
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
 
 ---
 
-## Learning Journey
+## 🚀 My Projects
 
-```text
-C++ & OOP
-    ↓
-Data Structures & Algorithms
-    ↓
-Python & SQL
-    ↓
-Data Analysis
-    ↓
-Machine Learning
-    ↓
-Data Science
-```
+I have developed several C++ projects to practice object-oriented programming, application logic, and software development fundamentals.
 
-I believe in learning by building. Every project helps me improve my understanding, strengthen my logic, and sharpen my problem-solving skills.
+### 1. 🎓 BIG BRAINS — EdTech Management System
+A console-based educational management system featuring student registration and login, course browsing and enrollment, instructor management, lessons, interactive quizzes, learning progress, and quiz results.
 
----
+**Technologies:** C++, OOP, Classes, Arrays, Input Validation
 
-## GitHub Stats
+### 2. 🎓 Student Management System
+A student record management application featuring student registration, record handling, student ID validation, and duplicate-entry prevention.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dielectric840-tech&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielectric840-tech&layout=compact&hide_border=true" height="165" alt="Top Languages" />
-</p>
+**Technologies:** C++, OOP, Data Management
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dielectric840-tech&hide_border=true" alt="GitHub Streak" />
-</p>
+### 3. ✈️ Airline Reservation System
+A console-based application for managing passenger information, flight details, seat availability, destinations, travel schedules, and ticket prices.
 
----
+**Technologies:** C++, Classes, Objects, Application Logic
 
-## 2026 Goals
+### 4. 🏥 Hospital Management System
+A hospital-related management application developed to practice structured records management, object-oriented programming, and menu-driven workflows.
 
-- [x] Build multiple C++ projects
-- [x] Practice Object-Oriented Programming
-- [x] Work with file handling and CRUD systems
-- [ ] Master Data Structures & Algorithms
-- [ ] Build practical Python-based projects
-- [ ] Strengthen SQL and data analysis
-- [ ] start Machine Learning projects
-- [ ] Build a professional data science portfolio
+**Technologies:** C++, OOP, Console Application Development
+
+### 5. 📚 Library Management System
+A library management application focused on organizing records and practicing classes, objects, and structured programming.
+
+**Technologies:** C++, OOP, Data Handling
+
+### 6. 💼 Employee Management & Payroll System
+An employee management application focused on employee records and payroll-related operations.
+
+**Technologies:** C++, OOP, Business Logic
+
+### 7. 📦 Inventory Management System
+A product management application designed to organize inventory information and practice data management and programming logic.
+
+**Technologies:** C++, OOP, Application Development
+
+**Explore my repositories:** [github.com/dielectric840-tech](https://github.com/dielectric840-tech)
 
 ---
 
-## Connect With Me
+## 💼 Professional Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahsan-naeem-3288633a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@CodingwithBoner">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:dielectric840@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### C++ Intern — Big Brain
+**Status: Completed**
+
+- Practiced C++ programming and object-oriented programming concepts.
+- Strengthened problem-solving and logical thinking skills.
+- Applied programming fundamentals through practical learning tasks.
+- Developed a stronger understanding of C++ application development.
+
+### Data Science Intern — Next Gen Software Hub
+**Status: Ongoing**
+
+- Developing practical knowledge of Data Science concepts.
+- Strengthening technical and analytical skills.
+- Exploring data-driven problem-solving and related technologies.
+- Continuing to learn through internship activities and practical work.
 
 ---
 
-<p align="center">
-  <b>💡 Code. Learn. Build. Repeat. 🚀</b>
-</p>
+## 📈 Current Learning Goals
 
-<p align="center">
-  ⭐ If you find my work useful, feel free to support it by starring my projects.
-</p>
+- Strengthen C++ programming and advanced OOP concepts.
+- Improve Data Structures and Algorithms.
+- Learn Python for Data Science.
+- Explore NumPy, Pandas, and data visualization.
+- Understand Machine Learning fundamentals.
+- Build projects using real-world datasets.
+- Improve software design and code organization.
+- Contribute to collaborative and open-source projects.
+
+---
+
+## 🎯 Career Objective
+
+My goal is to become a skilled technology professional by combining programming, analytical thinking, and continuous learning. I aim to build reliable software applications, develop expertise in Data Science, and explore Artificial Intelligence and Machine Learning.
+
+I'm interested in connecting with developers, recruiters, technology professionals, and organizations working in software development and data-driven technologies.
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 **GitHub:** [dielectric840-tech](https://github.com/dielectric840-tech)
+- 💼 **LinkedIn:** [Muhammad Ahsan Naeem](https://linkedin.com/in/muhammad-ahsan-naeem-3288633a1)
+- ▶️ **YouTube:** [Coding with Boner](https://youtube.com/@CodingwithBoner)
+
+Feel free to explore my projects, share feedback, or connect with me to discuss programming, software development, and Data Science.
+
+---
+
+## 💡 My Philosophy
+
+**Learn continuously. Build consistently. Solve meaningful problems.**
+
+⭐ Thank you for visiting my GitHub profile!
+
+<!-- Topics: C++, Data Science, Python, Machine Learning, Artificial Intelligence, Software Development, Object-Oriented Programming, Algorithms, EdTech, Student Projects -->
