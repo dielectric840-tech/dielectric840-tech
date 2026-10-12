@@ -1,158 +1,147 @@
-# Hi, I'm Muhammad Ahsan Naeem 👋
+# 👋 Hi there! I'm Muhammad Ahsan Naeem
 
-### C++ Developer | BS Data Science Student | Data Science Intern
+<h2 align="center">💻 C++ Developer | 📊 Data Science Student | 🤖 AI & ML Enthusiast</h2>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;C%2B%2B+Developer+in+Progress;Data+Science+%7C+AI+%7C+Machine+Learning;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-I'm a BS Data Science student at the **University of Management and Technology (UMT), Lahore, Pakistan**, passionate about C++ programming, software development, problem-solving, Data Science, and Artificial Intelligence.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00D9FF&height=220&section=header&text=Code.%20Learn.%20Innovate.&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Portfolio banner"/>
+</p>
 
-I enjoy building practical software applications, improving my programming skills, and exploring how technology can solve real-world problems.
+## 🚀 About Me
 
-- 🎓 **Education:** BS Data Science — UMT, Lahore
-- 💻 **Programming Language:** C++
-- 🚀 **Interests:** Software Development, Data Science, AI, and Machine Learning
-- 🌱 **Currently Learning:** Python, Data Analysis, and Machine Learning
-- 💼 **Experience:** Completed C++ internship at Big Brain
-- 📊 **Current Role:** Data Science Intern at Next Gen Software Hub
-- 🤝 **Open To:** Professional networking, project collaborations, and relevant internship opportunities
+Hello! I'm **Muhammad Ahsan Naeem**, a BS Data Science student at the University of Management and Technology (UMT), Lahore, Pakistan.
 
----
+I'm passionate about programming, problem-solving, data science, and exploring artificial intelligence. I enjoy building practical software projects and continuously improving my technical skills.
 
-## 🛠️ Technical Skills
+- 🎓 Studying **BS Data Science at UMT Lahore**
+- 💻 Learning and developing applications using **C++**
+- 📊 Exploring **Data Science, data analysis, and machine learning**
+- 🧠 Practicing programming fundamentals, algorithms, and data structures
+- 🏢 Completed my C++ internship at **Big Brain**
+- 💼 Gaining experience as a **Data Science Intern at NextGen Software Hub**
+- 🎥 Creating programming content through **Coding with Boner**
+- 🎯 Goal: Become a skilled Data Scientist and AI/ML Engineer
 
-**Programming**
-- C++
+## 🛠️ Technologies & Skills
 
-**Currently Learning**
-- Python
-- Data Analysis
-- Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode,linux&theme=dark" alt="Technical skills"/>
+</p>
 
-**Computer Science Fundamentals**
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-- Arrays, Functions, Loops, and Pointers
-- Input Validation and File Handling
-- Problem-Solving and Logical Thinking
+**Currently focusing on:**
+- C++ programming and object-oriented programming
+- Data structures and algorithms
+- File handling and console-based applications
+- Python for data analysis
+- Statistics and mathematics for data science
+- Machine learning fundamentals
 
-**Fields of Interest**
-- Software Engineering
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
+## 📂 Featured Projects
 
----
+### 1. 🎓 BIG BRAINS — EdTech Application
+A console-based educational technology application developed using C++. It brings together course browsing, student information, registration, enrollment, and course management.
 
-## 🚀 My Projects
+**Highlights:** Student registration, course search, course listings, enrollment management, input validation, and menu-driven navigation.
 
-I have developed several C++ projects to practice object-oriented programming, application logic, record management, and software development fundamentals.
+**Technologies:** C++
 
-### 1. 🎓 BIG BRAINS — EdTech Management System
+### 2. 🏥 Hospital Management System
+A C++ application designed to organize hospital-related records and demonstrate structured programming and object-oriented concepts.
 
-A console-based educational management system featuring student registration and login, course browsing and enrollment, instructor management, lessons, interactive quizzes, learning progress, and quiz results.
+**Highlights:** Record management, classes, and practical console application development.
 
-**Technologies:** C++, OOP, Classes, Arrays, Input Validation
+**Technologies:** C++
 
-### 2. 🎓 Student Management System
+### 3. 📚 Library Management System
+A library application built to practice organizing and managing book-related records.
 
-A C++ application for managing student records, registration, student IDs, and duplicate-entry prevention.
+**Highlights:** Structured data management, menu-driven operations, and file-handling concepts.
 
-**Technologies:** C++, OOP, Data Management
+**Technologies:** C++
 
-### 3. ✈️ Airline Reservation System
+### 4. 👨‍💼 Employee Management & Payroll System
+A C++ project focused on employee record management and payroll-related operations.
 
-A console-based application for managing passenger information, flight details, seat availability, destinations, travel schedules, and ticket prices.
+**Highlights:** Employee information, structured records, and object-oriented programming.
 
-**Technologies:** C++, Classes, Objects, Application Logic
+**Technologies:** C++
 
-### 4. 🏥 Hospital Management System
+### 5. ✈️ Airline Reservation System
+A reservation-oriented C++ project for organizing flight information and passenger records.
 
-A management application designed to organize hospital-related information and practice object-oriented programming and menu-driven workflows.
+**Highlights:** Flight records, passenger management, seat information, and reservation-related workflows.
 
-**Technologies:** C++, OOP, Console Application Development
+**Technologies:** C++
 
-### 5. 📚 Library Management System
+### 6. 📦 Inventory Management System
+A C++ application for practicing inventory and product record management.
 
-A library management application focused on organizing records and practicing classes, objects, and structured programming.
+**Highlights:** Product information, inventory operations, and file-handling practice.
 
-**Technologies:** C++, OOP, Data Handling
+**Technologies:** C++
 
-### 6. 💼 Employee Management & Payroll System
+> Explore my repositories for source code, implementation details, and project updates.
 
-An employee management application focused on employee information and payroll-related operations.
+## 💼 Internship Experience
 
-**Technologies:** C++, OOP, Business Logic
+**C++ Intern — Big Brain**
+- Completed an internship focused on C++ programming and practical development.
+- Applied programming fundamentals to a console-based EdTech application.
+- Practiced problem-solving, debugging, and structured code development.
 
-### 7. 📦 Inventory Management System
+**Data Science Intern — NextGen Software Hub**
+- Developing my understanding of data science workflows.
+- Building technical skills relevant to data analysis and machine learning.
 
-A product and inventory management application designed to organize product information and practice data management and programming logic.
+## 📈 My Learning Journey
 
-**Technologies:** C++, OOP, Application Development
+- [x] Build C++ console applications
+- [x] Practice object-oriented programming
+- [x] Develop projects involving records and file handling
+- [x] Complete a C++ internship at Big Brain
+- [ ] Strengthen Python and data analysis skills
+- [ ] Develop machine learning projects
+- [ ] Build and publish data science portfolio projects
+- [ ] Explore AI engineering and generative AI
 
-🔗 **Explore my projects:** [GitHub Repositories](https://github.com/dielectric840-tech?tab=repositories)
+## 📊 GitHub Statistics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dielectric840-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielectric840-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</p>
 
-## 💼 Professional Experience
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dielectric840-tech&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-### C++ Intern — Big Brain
-**Status: Completed**
+## 🎥 Content & Professional Connections
 
-- Practiced C++ programming and object-oriented programming concepts.
-- Strengthened problem-solving and logical thinking skills.
-- Applied programming fundamentals through practical learning tasks.
-- Improved my understanding of C++ application development.
-
-### Data Science Intern — Next Gen Software Hub
-**Status: Ongoing**
-
-- Developing practical knowledge of Data Science concepts.
-- Strengthening technical and analytical skills.
-- Exploring data-driven problem-solving and related technologies.
-- Continuing to learn through internship activities and practical work.
-
----
-
-## 📈 Current Learning Goals
-
-- Strengthen C++ programming and advanced OOP concepts.
-- Improve Data Structures and Algorithms.
-- Learn Python for Data Science.
-- Explore NumPy, Pandas, and data visualization.
-- Understand Machine Learning fundamentals.
-- Build projects using real-world datasets.
-- Improve software design and code organization.
-- Contribute to collaborative and open-source projects.
-
----
-
-## 🎯 Career Objective
-
-My goal is to become a skilled technology professional by combining programming, analytical thinking, and continuous learning. I aim to build reliable software applications, develop expertise in Data Science, and explore Artificial Intelligence and Machine Learning.
-
-I'm interested in connecting with developers, recruiters, technology professionals, and organizations working in software development and data-driven technologies.
-
----
-
-## 🤝 Connect With Me
-
-I'm always happy to connect with developers, recruiters, Data Science professionals, and technology enthusiasts.
-
-- 💻 **GitHub:** [https://github.com/dielectric840-tech](https://github.com/dielectric840-tech)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-ahsan-naeem-3288633a1/](https://www.linkedin.com/in/muhammad-ahsan-naeem-3288633a1/)
-- ▶️ **YouTube — Coding with Boner:** [https://www.youtube.com/@CodingwithBoner](https://www.youtube.com/@CodingwithBoner)
-
-Feel free to explore my projects, connect with me on LinkedIn, and subscribe to my YouTube channel.
-
-**Let's connect, collaborate, and grow together!** 🚀
-
----
+<p align="center">
+  <a href="https://github.com/dielectric840-tech">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@CodingwithBoner">
+    <img src="https://img.shields.io/badge/YouTube-Coding_with_Boner-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ahsan-naeem-70684a38b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## 💡 My Philosophy
 
-**Learn continuously. Build consistently. Solve meaningful problems.**
+> "Consistency beats perfection. Every project is an opportunity to learn, improve, and build something meaningful."
 
-⭐ Thank you for visiting my GitHub profile!
+I'm always interested in learning, collaborating on projects, and connecting with people who share an interest in programming, data science, and AI.
 
-<!-- Topics: C++, Data Science, Python, Machine Learning, Artificial Intelligence, Software Development, Object-Oriented Programming, Algorithms, EdTech, Student Projects -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer" width="100%" alt="Footer banner"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+</p>
